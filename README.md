@@ -4,4 +4,4 @@ This is the official collaborative coding space for the ISSA Collin College Chap
 
 If you are a member of the ISSA Collin College chapter, please see the Getting Started page for more details on how to join and start contributing.
 
-Visit the Getting-Started page for information on how to contribute.
+To get started, click Repositories in the navigation bar, then go to Getting-Started. There you will find resources on how to contribute.
